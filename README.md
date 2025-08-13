@@ -16,7 +16,7 @@ Drag-and-drop MP4 trimmer that exports to a specific file size (MB) on Windows. 
   - Download from `https://www.gyan.dev/ffmpeg/builds/` (or your preferred source)
   - Ensure `ffmpeg.exe` and `ffprobe.exe` are accessible in a terminal (`ffmpeg -version`)
  - Optional for drag-and-drop: `tkinterdnd2` (auto-installed via requirements)
- - Optional for preview player: `VLC` desktop app installed (`python-vlc` uses the system VLC libraries)
+ - Optional for preview player: `VLC` desktop app installed (`python-vlc` uses the system VLC libraries) DOWNLOAD HERE: https://www.videolan.org/vlc/
 
 ### Setup
 1. Open a terminal in this folder

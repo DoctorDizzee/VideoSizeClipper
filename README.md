@@ -10,7 +10,7 @@ VideoClipper is a simple Windows app to trim MP4 videos to a target file size (M
 - Two-pass encoding to hit target size; auto downscales when needed to keep quality reasonable
 
 ### Download and run
-- Portable app: extract the `VideoClipper.zip`, then open `VideoClipper\VideoClipper.exe`.
+- `VideoClipper\VideoClipper.exe`.
 
 ### How to use
 1) Drag a `.mp4` onto the window (or click Browse).
